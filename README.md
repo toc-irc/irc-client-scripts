@@ -1,7 +1,7 @@
 ## irc-client-scripts
 ## scripts for customizing your irc clients
 #### install_toc_hexchat.sh:
-Install Hexchat with TOC servers added to favorites and other customizations
+Install Hexchat with TOC servers added to favorites and other useful customizations
 
 usage:
 ````
